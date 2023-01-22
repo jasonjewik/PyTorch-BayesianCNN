@@ -2,4 +2,5 @@ checkpoint/
 data/
 checkpoint_/
 *.pyc
-
+.ipynb_checkpoints/
+checkpoints/
